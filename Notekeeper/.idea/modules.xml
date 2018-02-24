@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/NoteKeeper.iml" filepath="$PROJECT_DIR$/NoteKeeper.iml" />
+      <module fileurl="file://C:\plural\Notekeeper\NoteKeeper.iml" filepath="C:\plural\Notekeeper\NoteKeeper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Notekeeper.iml" filepath="$PROJECT_DIR$/Notekeeper.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\plural\Notekeeper\app\app.iml" filepath="C:\plural\Notekeeper\app\app.iml" />
     </modules>
   </component>
 </project>
